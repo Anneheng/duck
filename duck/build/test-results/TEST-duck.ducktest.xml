@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="duck.ducktest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-22T12:04:53" hostname="DESKTOP-O5VI07B" time="0.027">
+  <properties/>
+  <testcase name="test" classname="duck.ducktest" time="0.027"/>
+  <system-out><![CDATA[——————————————
+我是 一只RubberDuck
+我是不会飞的鸭子
+我是吱吱叫
+我是会游泳的
+——————————————
+我是一只  RedHeadDuck!
+我用火箭飞
+我是吱吱叫
+我是会游泳的
+——————————————
+我是  一只MallarDuck
+我用翅膀飞
+我会呱呱叫
+我是会游泳的
+——————————————
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
